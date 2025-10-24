@@ -1,0 +1,17 @@
+/**
+ * This file is part of Gad game.
+ */
+
+#textfield h1,
+#textfield h2 {
+	text-align: center;
+	font-weight: bold;
+}
+
+#textfield h1 {
+	font-size: 2em;
+}
+
+#textfield h2 {
+	font-size: 1.25em;
+}

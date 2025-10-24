@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>5E0C49F4-362A-4BEE-9465-7372D61C504C</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Гэд</title>
+			<author>Davarg, Nunhan и Никита Цейковец</author>
+			<language>ru</language>
+			<headline>Небольшая игра, повествующая о путешествиях в подземном городе</headline>
+			<firstpublished>2025-10-25</firstpublished>
+			<genre>Фэнтези</genre>
+			<group>URQ</group>
+			<description>"Дрянная жизнь", - думал ты, ехав в город Гэд. Тебя тревожил один вопрос: "почему именно ты родился в бедной семье?" Если бы ты родился в другой семье, может тебе бы никогда и не пришлось отвозить заказ Лормана (небольшую повозку, доверху забитую тканями) в этот город нищеты. Но, как всегда бывает, уже почти у города тебя ограбили и притом хорошо ударили по голове.<br/>Когда ты очнулся, тебя осенила идея, что Лорман спустит с тебя три шкуры за его товар, поэтому немедленно надо его вернуть и доставить на рынок.<br/>Гипертекстовый ремейк 2025 года парсерной игры 2006 года.<br/>Авторы оригинальной игры на RTADS: Davarg и Nunhan<br/>Ремейк на UrqW: Никита Цейковец</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#gad</url>
+			<authoremail>tseikovets@rambler.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-10-24</originated>
+		</colophon>
+	</story>
+</ifindex>
