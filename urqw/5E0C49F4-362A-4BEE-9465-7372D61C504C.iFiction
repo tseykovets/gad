@@ -16,12 +16,12 @@
 			<description>"Дрянная жизнь", - думал ты, ехав в город Гэд. Тебя тревожил один вопрос: "почему именно ты родился в бедной семье?" Если бы ты родился в другой семье, может тебе бы никогда и не пришлось отвозить заказ Лормана (небольшую повозку, доверху забитую тканями) в этот город нищеты. Но, как всегда бывает, уже почти у города тебя ограбили и притом хорошо ударили по голове.<br/>Когда ты очнулся, тебя осенила идея, что Лорман спустит с тебя три шкуры за его товар, поэтому немедленно надо его вернуть и доставить на рынок.<br/>Гипертекстовый ремейк 2025 года парсерной игры 2006 года.<br/>Авторы оригинальной игры на RTADS: Davarg и Nunhan<br/>Ремейк на UrqW: Никита Цейковец</description>
 		</bibliographic>
 		<contacts>
-			<url>https://urqw.github.io/UrqW/#gad</url>
+			<url>https://urqw.github.io/UrqW/?id=gad</url>
 			<authoremail>tseikovets@rambler.ru</authoremail>
 		</contacts>
 		<colophon>
 			<generator>UrqW Game Template</generator>
-			<originated>2025-10-24</originated>
+			<originated>2026-01-09</originated>
 		</colophon>
 	</story>
 </ifindex>
