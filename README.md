@@ -4,7 +4,7 @@ Text-based game "Gad" (Russian: "Гэд") by Davarg, Nunhan, and Nikita Tseykove
 
 The game is in Russian and developed for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#gad).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=gad).
 
 The game was first published on October 25, 2025.
 
